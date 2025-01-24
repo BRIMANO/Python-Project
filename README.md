@@ -184,7 +184,7 @@ plt.show()
 #### Results
 
 ![Top Trending Skills for Data Analysts in France](images/Top%20Trending%20Skills%20for%20Data%20Analysts%20in%20France.png)  
-*Line chart visualizing the top trending skills for data analysts in the France in 2023.*
+*Line chart visualizing the top trending skills for data analysts in France in 2023.*
 
 ### **Insights**
 
@@ -218,7 +218,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](images/Salary%20Distributions%20of%20Data%20Jobs%20in%20the%20France.png) 
+![Salary Distributions of Data Jobs in France](images/Salary%20Distributions%20of%20Data%20Jobs%20in%20the%20France.png) 
 *Box plot visualizing the salary distributions for the top 5 data job titles.*
 
 ### **Insights**
@@ -358,7 +358,7 @@ plt.show()
 #### Results
 
 ![Best Skills for Data Analysts in France with Coloring by Technology](images/Best%20Skill%20by%20technology.png)  
-*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
+*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in France with color labels for technology.*
 
 ### **Insights**
 
