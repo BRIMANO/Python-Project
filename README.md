@@ -366,7 +366,7 @@ plt.show()
 
 ![Best Skills for Data Analysts in France with Coloring by Technology](images/Best%20Skill%20by%20technology.png)
  
-*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in France with color labels for technology.*
+*A scatter plot visualizing the best skills (high paying & high demand) for data analysts in France with color labels for technology.*
 
 ### **Insights**
 
