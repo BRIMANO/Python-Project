@@ -183,7 +183,7 @@ plt.show()
 
 #### Results
 
-![Top Trending Skills for Data Analysts in the France](images/Top%20Trending%20Skills%20for%20Data%20Analysts%20in%20the%20France.png)  
+![Top Trending Skills for Data Analysts in France](images/Top%20Trending%20Skills%20for%20Data%20Analysts%20in%20France.png)  
 *Line chart visualizing the top trending skills for data analysts in the France in 2023.*
 
 ### **Insights**
