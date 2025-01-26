@@ -186,7 +186,7 @@ plt.show()
 
 #### Results
 
-![Top Trending Skills for Data Analysts in France](images/Top_Trending_Skills_for_Data_Analysts_in_France.png)
+![Top Trending Skills for Data Analysts in France](Images/Top_Trending_Skills_for_Data_Analysts_in_France.png)
 
 *Line chart visualizing the top trending skills for data analysts in France in 2023.*
 
@@ -222,7 +222,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in France](images/Salary_Distributions_of_Data_Jobs_in_France.png)
+![Salary Distributions of Data Jobs in France](Images/Salary_Distributions_of_Data_Jobs_in_France.png)
 
 *Box plot visualizing the salary distributions for the top 5 data job titles.*
 
@@ -268,7 +268,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the France:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in France](images/Most_In_Demand_Skills_for_Data_Analysts_in_France.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in France](Images/Most_In_Demand_Skills_for_Data_Analysts_in_France.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in France.*
 
@@ -310,7 +310,7 @@ plt.show()
 ```
 #### Results
 
-![Best Skills for Data Analysts in France](images/Best_Skill.png)
+![Best Skills for Data Analysts in France](Images/Best_Skill.png)
 
 *A scatter plot visualizing the best skills (high paying & high demand) for data analysts in France.*
 
@@ -364,7 +364,7 @@ plt.show()
 
 #### Results
 
-![Best Skills for Data Analysts in France with Coloring by Technology](images/Best_Skill_by_technology.png)
+![Best Skills for Data Analysts in France with Coloring by Technology](Images/Best_Skill_by_technology.png)
  
 *A scatter plot visualizing the best skills (high paying & high demand) for data analysts in France with color labels for technology.*
 
@@ -389,4 +389,4 @@ plt.show()
 
 # **Conclusion**
 
-In conclusion, the entire analysis highlights the importance of tailoring skills to meet the evolving demands of data analyst roles in France. Programming languages like Python and SQL remain indispensable, combining high demand with competitive salaries. Visualization tools such as Power BI and Tableau are critical for effectively communicating insights, while foundational tools like Excel retain their relevance in day-to-day tasks. Additionally, niche skills in cloud platforms and advanced databases, like Oracle and Go, offer opportunities for specialization and higher earning potential. To succeed in this dynamic field, professionals should aim to build a balanced skill set that integrates technical expertise, data management, and visualization capabilities, ensuring both versatility and value in the job market.
+In conclusion, the analysis highlights the importance of tailoring skills to meet the evolving demands of data analyst roles in France. Programming languages like Python and SQL remain indispensable, combining high demand with competitive salaries. Visualization tools such as Power BI and Tableau are critical for effectively communicating insights, while foundational tools like Excel retain their relevance in day-to-day tasks. Additionally, niche skills in cloud platforms and advanced databases, like Oracle and Go, offer opportunities for specialization and higher earning potential. To succeed in this dynamic field, professionals should aim to build a balanced skill set that integrates technical expertise, data management, and visualization capabilities, ensuring both versatility and value in the job market.
